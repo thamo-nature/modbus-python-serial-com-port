@@ -21,5 +21,18 @@ Cosnumero designs and delivers custom hardware, sensors, software, APIs, website
 Empowered by wide networking support that enables remote monitoring of HOSPITALS, FACTORIES, LABORATORIES, and more.<br>
 
 Some of our in-field work images for your reference <br>
-<img alt="modbus-python-serial-com-port" height="50%" src="https://github.com/thamo-nature/modbus-python-serial-com-port/blob/main/mobus_device_splitter.jpg" >
+Dashboard Remote Monitoring :
+<img alt="Live_Data_Plotting_Graph" height="50%" src="https://github.com/thamo-nature/modbus-python-serial-com-port/blob/main/Cosnumero-Remote-Monitoring.png" ><br>
+Live Data Monitoring : 
+<img alt="Live_Data_Monitoring-Exporting" height="50%" src="https://github.com/thamo-nature/modbus-python-serial-com-port/blob/main/live_data_monitoring_exporting.png" > <br>
+Live Data Plotting : 
+<img alt="Live_Data_Plotting_Graph" height="50%" src="https://github.com/thamo-nature/modbus-python-serial-com-port/blob/main/live_data_plotting_graph.png" ><br>
+Network Rj45 Data-logging :
+<img alt="modbus-python-serial-com-port" height="50%" src="https://github.com/thamo-nature/modbus-python-serial-com-port/blob/main/mobus_device_splitter.jpg" > <br>
+Data-Logger-Rs232-485 at work :
+<img alt="Data-Logger-Rs232-485" height="50%" src="https://github.com/thamo-nature/modbus-python-serial-com-port/blob/main/Cosnumero-Data-Logger-Rs232-485.png" > <br>
+
+Contact <a href="tel:+91 9942296145" >Cosnumero</a> to consulting and monitor your equipments remotely. <br>
+More Info <a href="https://www.instagram.com/p/CzdRqzLBVdq/" >About Cosnumero</a>
+
 
