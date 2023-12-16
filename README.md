@@ -2,10 +2,15 @@
 Python codes - connect to a serial modbus devices to fetch data from list of slave machines.<br>
 Connect to a TCP/IP modbus devices to fetch data from list of slave machines.<br>
 Also using Python Brutforce Different Configuration of modbus/serial devices as follows <br>
+
    Baudrate [2400, 4800, 9600, 14400, 19200, 2800, 38400, 57600, 76800, 115200, 230400],<br>
+   
    List of Slave Devices (1 to 247),<br>
+   
    parity_list [ "N", "O", "E" ],<br>
+   
    stopbits_list [ 0, 1, 2 ],<br>
+   
    connection method [ "rtu", "ascii", "binary" ],<br>
 
 Use Network extender or connect the modbus devices to serial or TCP/IP </br>
