@@ -28,11 +28,6 @@ for i in list:
         data.append(data_array)
 
 #print(data)
-
-
-#pth_data = '[{"pth_sensor": "192.168.9.239", "temp": "232", "humidity": 10.0, "pressure": 9.4, "tempa": 10.2}, {"pth_sensor": "192.168.100.81", "temp": "25", "humidity": 20.0, "pressure": 19.7, "tempa": 5.5}]'
-
-#print(pth_data)
     
 #print("\n\n")
 #print('Summery Of Connection Details ', end='\n * ')
