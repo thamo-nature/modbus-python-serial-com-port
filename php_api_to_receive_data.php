@@ -151,11 +151,11 @@ function send_alert_mail(array $final_arr_faulty_vessels , $total_chart_vessels_
     $mail->SMTPAuth = true;
     $mail->SMTPSecure = 'ssl'; // tls or ssl
     $mail->Port = "465";
-    $mail->Username = "thamothiran.s@spovum.com";
-    $mail->Password = "exvpdktfvnxswbxt";
+    $mail->Username = "your@email";
+    $mail->Password = "yourpassword";
     $mail->Host = "smtp.gmail.com";
     $mail->Mailer = "smtp";
-    $mail->SetFrom("thamothiran.s@spovum.com", "From SpOvum");
+    $mail->SetFrom("service@cosnumero.com", "From Cosnumero");
 
     while ($row = mysqli_fetch_array($result)) {
         $users = $row['email'];
@@ -163,7 +163,7 @@ function send_alert_mail(array $final_arr_faulty_vessels , $total_chart_vessels_
         $mail->AddAddress($email);
     }
 
-    $mail->Subject = "Alert For Gold Sim Vessels";
+    $mail->Subject = "Alert For Factory Machine";
     $mail->MsgHTML($message_body);
     $mail->IsHTML(true);
     $result = $mail->Send();
