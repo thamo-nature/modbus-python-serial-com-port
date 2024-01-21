@@ -46,7 +46,7 @@ s_count = len(working_charts)
 #print(" * Uplink Vessel" + str(working_charts))
 
 
-URL = "http://localhost/lifecell/api/charts_api.php"
+URL = "http://localhost/cosnumero/api/charts_api.php"
 
 final_data = {'charts' : json.dumps(data),'total_vessel_count' : total_count , 'total_connected_charts': s_count ,'not_connected_charts' : json.dumps(empty_data_one) }
 
